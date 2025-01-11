@@ -16,7 +16,7 @@ old English Literture. I do a standartzation for labels of those two datasets an
 This project include the main program as Jupyter notbook, configuration file saved as csv file and python file with the clases of the model.
 You can run this model from the main Jupyter notbook. Before runing this notbook you can set the relvent configurations in config.csv file.
 Explation of each configuration can be found in this file. In this project we use wandb libary for training the model, so you have to set your
-personal wandb API key in the config file before running the model. Wandb API key can be generated ([here:](https://wandb.ai/site)).
+personal wandb API key in the config file before running the model. Wandb API key can be generated [here:](https://wandb.ai/site).
 
 To use the ensemble model you can download it form  [here:](https://drive.google.com/drive/folders/1UYlFUJ4LykeEgQfc2K0eEw32Dc8kxdFv?usp=sharing).
 For this method you need to set the to kind of evaluation parametes in config.csv to "multiple evaluations".
