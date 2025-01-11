@@ -85,10 +85,10 @@ Below are the metrics achived by applying the ensemble model on split form the s
         <tr><td>colors</td><td>1.00</td><td>0.86</td><td>0.92</td><td>7</td></tr>
         <tr><td>destruction</td><td>0.67</td><td>0.50</td><td>0.57</td><td>4</td></tr>
         <tr><td>games__sports</td><td>1.00</td><td>0.50</td><td>0.67</td><td>4</td></tr>
-        <b><tr><td>micro avg</td><td>0.95</td><td>0.88</td><td>0.91</td><td>904</td></tr></b>
-        <b><tr><td>macro avg</td><td>0.94</td><td>0.85</td><td>0.89</td><td>904</td></tr></b>
-        <b><tr><td>weighted avg</td><td>0.95</td><td>0.88</td><td>0.91</td><td>904</td></tr></b>
-        <b><tr><td>samples avg</td><td>0.95</td><td>0.89</td><td>0.92</td><td>904</td></tr></b>
+        <tr><td><b>micro avg</b></td><td><b>0.95</b></td><td><b>0.88</b></td><td><b>0.91</b></td><td><b>904</b></td></tr>
+        <tr><td><b>macro avg</b></td><td><b>0.94</b></td><td><b>0.85</b></td><td><b>0.89</b></td><td><b>904</b></td></tr>
+        <tr><td><b>weighted avg</b></td><td><b>0.95</b></td><td><b>0.88</b></td><td><b>0.91</b></td><td><b>904</b></td></tr>
+        <tr><td><b>samples avg</b></td><td><b>0.95</b></td><td><b>0.89</b></td><td><b>0.92</b></td><td><b>904</b></td></tr>
     </tbody>
 </table>
 
