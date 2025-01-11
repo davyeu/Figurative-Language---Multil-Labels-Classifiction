@@ -16,9 +16,9 @@ old English Literture. I do a standartzation for labels of those two datasets an
 This project include the main program as Jupyter notbook, configuration file saved as csv file and python file with the clases of the model.
 You can run this model from the main Jupyter notbook. Before runing this notbook you can set the relvent configurations in config.csv file.
 Explation of each configuration can be found in this file. In this project we use wandb libary for training the model, so you have to set your
-personal wandb API key in the config file before running the model. Wandb API key can be generated form [Visit OpenAI's Website](https://www.openai.com)
+personal wandb API key in the config file before running the model. Wandb API key can be generated form [](url)
 
-[]([url](https://wandb.ai/site))
+[url]([url](https://wandb.ai/site))
 
 
 
