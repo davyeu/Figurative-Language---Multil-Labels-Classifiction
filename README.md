@@ -16,7 +16,7 @@ old English Literture. I do a standartzation for labels of those two datasets an
 This project include the main program as Jupyter notbook, configuration file saved as csv file and python file with the clases of the model.
 You can run this model from the main Jupyter notbook. Before runing this notbook you can set the relvent configurations in config.csv file.
 Explation of each configuration can be found in this file. In this project we use wandb libary for training the model, so you have to set your
-personal wandb API key in the config file before running the model. Wandb API key can be generated [here:]([https://wandb.ai/trial_end](https://wandb.ai/site)).
+personal wandb API key in the config file before running the model. Wandb API key can be generated ([here:](https://wandb.ai/site)).
 
 To use the ensemble model you can download it form  [here:](https://drive.google.com/drive/folders/1UYlFUJ4LykeEgQfc2K0eEw32Dc8kxdFv?usp=sharing).
 For this method you need to set the to kind of evaluation parametes in config.csv to "multiple evaluations".
@@ -85,10 +85,10 @@ Below are the metrics achived by applying the ensemble model on split form the s
         <tr><td>colors</td><td>1.00</td><td>0.86</td><td>0.92</td><td>7</td></tr>
         <tr><td>destruction</td><td>0.67</td><td>0.50</td><td>0.57</td><td>4</td></tr>
         <tr><td>games__sports</td><td>1.00</td><td>0.50</td><td>0.67</td><td>4</td></tr>
-        <tr><td>micro avg</td><td>0.95</td><td>0.88</td><td>0.91</td><td>904</td></tr>
-        <tr><td>macro avg</td><td>0.94</td><td>0.85</td><td>0.89</td><td>904</td></tr>
-        <tr><td>weighted avg</td><td>0.95</td><td>0.88</td><td>0.91</td><td>904</td></tr>
-        <tr><td>samples avg</td><td>0.95</td><td>0.89</td><td>0.92</td><td>904</td></tr>
+        <b><tr><td>micro avg</td><td>0.95</td><td>0.88</td><td>0.91</td><td>904</td></tr></b>
+        <b><tr><td>macro avg</td><td>0.94</td><td>0.85</td><td>0.89</td><td>904</td></tr></b>
+        <b><tr><td>weighted avg</td><td>0.95</td><td>0.88</td><td>0.91</td><td>904</td></tr></b>
+        <b><tr><td>samples avg</td><td>0.95</td><td>0.89</td><td>0.92</td><td>904</td></tr></b>
     </tbody>
 </table>
 
