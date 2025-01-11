@@ -9,7 +9,7 @@ e_idx,50,,,
 finetuned_models,./finetuned_models,"if you allready save finetuned model, you can load them from this directory",,
 models_dir,./finetuned_models/top_50_labels,,,
 model_path,distilbert-base-uncased,,,
-my_wandb_API_key,635482be7eca38ad029ad61f7616f70b393eb1e6,create an account in https://wandb.ai/site for API code,,
+my_wandb_API_key,<ENTER_YOUR_KEY_HERE>,create an account in https://wandb.ai/site for API code,,
 kind_of_evaluation,multiple evaluations,multiple evaluations  options is used for a case you finetuned models and you want to load them for ensamble learning,multiple evaluations ,single evaluation
 saving_model,False,,,
 save_predictions,False,,,
